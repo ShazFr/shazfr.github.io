@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Learn about some of my projects."
+description: "Bad Decisions make good projects?"
 showHero: true
 showDateUpdated: false
 groupByYear: false

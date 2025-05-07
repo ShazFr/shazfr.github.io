@@ -8,7 +8,7 @@ showAuthor: false
 showWords: false
 showTaxonomies: true
 summary: A Third Person Parkour System
-tags: ["Personal Project", "Gamedev"]
+tags: ["Gamedev"]
 ---
 
 ### Development
@@ -24,12 +24,12 @@ tags: ["Personal Project", "Gamedev"]
 - How to transition animations only through code
 - State Pattern and Observer Pattern
 - Learned how to organize code since this project has been refactored 3 times by now
-- Devlog / Making of Parkour System : {{< youtube uXinhbMsiaU>}}
+<!-- - Devlog / Making of Parkour System : {{< youtube uXinhbMsiaU>}} -->
 
 
 
-### Lore
+<!-- ### Lore
 - This is an ongoing project, I plan on improving it further once I get time (probably)
 - This was being worked on whenever I got time after my job hours
 - I had stopped working on this after the third refactor since I lost all interest by that point
-- I had extensively played and researched Assassin's Creed's parkour system to make this
+- I had extensively played and researched Assassin's Creed's parkour system to make this -->

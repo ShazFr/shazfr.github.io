@@ -7,7 +7,7 @@ showDate: true
 showAuthor: false
 showWords: false
 summary: A 2D Maze Shooter game
-tags: ["Personal Project", "Gamedev"]
+tags: ["Gamedev"]
 ---
 
 
@@ -40,11 +40,11 @@ tags: ["Personal Project", "Gamedev"]
 - Learned how to program haptic feedback for certain player actions
 
 
-### Lore
+<!-- ### Lore
 - At this point I had minimal experience with Unity.
 - I was working at an internship which was about to turn into a fulltime job
 - By the end of the development of this game I had a fulltime job
 - I was extremely discouraged when the viva examiner did not consider a game to be a valid project
 - The Indian education system is backward and resists change (or maybe this was a tier 3 college thing)
 - This is the reason why there is no devlog for this game.
-- Also the sound effect used for the time stop is literally dio's time stop effect from JoJo's Bizzare Adventure
+- Also the sound effect used for the time stop is literally dio's time stop effect from JoJo's Bizzare Adventure -->

@@ -2,7 +2,7 @@
 title: CyberBird
 date: 2021-06-15
 summary: A Synthwave Hoverboard Simulator
-tags: ["Personal Project", "Gamedev"]
+tags: ["Gamedev"]
 ---
 
 
@@ -20,7 +20,7 @@ tags: ["Personal Project", "Gamedev"]
 - There is a second camera on your bird which can scout ahead
 - The bird can teleport the player to higher platforms
 - This was very ambitious for 2 days and hence has some bugs<br><br>
-{{< youtube 6faGwKL0pJU>}}
+<!-- {{< youtube 6faGwKL0pJU>}} -->
 
 ### Stuff learned
 - Never overscope a project
@@ -29,10 +29,10 @@ tags: ["Personal Project", "Gamedev"]
 - Also learned how to transition between cinemachine cameras
 - Take breaks when required, the crunch is not worth it.
 - A smaller complete project is always better than a bigger project with bugs
-- Devlog / Making of Cyberbird : {{< youtube g6H_nQ7ZXKA>}}
+<!-- - Devlog / Making of Cyberbird : {{< youtube g6H_nQ7ZXKA>}} -->
 
 
-
+<!-- 
 ### Lore
 - At this point I had experience with Unity but had never worked in a team
 - I was working at a job where I made hypercasual games
@@ -41,7 +41,7 @@ tags: ["Personal Project", "Gamedev"]
 - The sound designer was form spain
 - The 3D artist was from Singapore
 - The Voice Actor was from Dubai
-- Here I realized that timezones can cause a problem as well
+- Here I realized that timezones can cause a problem as well -->
 
 
 

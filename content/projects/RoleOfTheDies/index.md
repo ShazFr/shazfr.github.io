@@ -7,7 +7,7 @@ showDate: true
 showAuthor: false
 showWords: false
 summary: An isometric puzzle game
-tags: ["Personal Project", "Published"]
+tags: ["Gamedev"]
 ---
 
 ### Development
@@ -33,13 +33,13 @@ tags: ["Personal Project", "Published"]
 - Learned how to break apart a 3D object
 - Learned how to organize code using enums
 - Built in input system is good for prototyping since it is easier to work with
-- Devlog / Making of Role of the Dies:  {{< youtube OeXjNOhzi6c>}}
+<!-- - Devlog / Making of Role of the Dies:  {{< youtube OeXjNOhzi6c>}} -->
 
 
-### Lore
+<!-- ### Lore
 - At this point I was in between a job switch and graduating at the same time.
 - This left me with some free time and I decided to learn from my previous mistakes and keep the game within scope
 - This led to me using abstract art for the game, and focus on my strong areas programming and music
 - Although the music isn't that great it still works for the short amount of time I had while making the game
-- There was still a little crunch before releasing this, I need to improve my game scoping skills
+- There was still a little crunch before releasing this, I need to improve my game scoping skills -->
 

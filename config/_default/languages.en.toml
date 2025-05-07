@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "ShazFr Portfolio"
+title = "ShazFr"
 
 [params]
   displayName = "EN"
@@ -19,8 +19,8 @@ title = "ShazFr Portfolio"
    email = "youremail@example.com"
    image = "image.png"
 #   imageQuality = 96
-   headline = "Professional Programmer"
-#   bio = "A little bit about you"
+   headline = "Software Developer"
+   # bio = bio?
    links = [
    { email = "https://mail.google.com/mail/?view=cm&fs=1&to=shahbaazkhanofficial@gmail.com" },
    #{ instagram = "https://instagram.com/the_awesome_shaz" },

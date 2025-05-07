@@ -8,16 +8,16 @@ showAuthor: false
 showWords: false
 showTaxonomies: true
 summary: A Top Down Shooter
-tags: ["Personal Project", "Gamedev"]
+tags: ["Gamedev"]
 ---
 
 ### Development
 - Controlnt is a top down shooter where you are not in control of your movement
 - It was made in 2 days for the GMTK gamejam 2020
-- It was a solo project I did the programming, art and the Music for this project
+- Solo project, I did the programming, art and the Music for this project
 - Programming was done in C#, Game Engine used was Unity
 - Music was made in FLStudio
-- It is a Downloadable game for Windows PC as well a browser game:
+- Downloadable game for Windows PC as well a browser game:
 - <iframe frameborder="0" class = "flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row" src="https://itch.io/embed/697356?dark=true"width="552" height="167" ><a href="https://theawesomeshaz.itch.io/control-nt">CONTROL'NT by TheAwesomeShaz</a></iframe>
 
 ### Gameplay
@@ -30,14 +30,14 @@ tags: ["Personal Project", "Gamedev"]
 
 
 ### Stuff learned
-- Gamejams are cool
+- Modify Unity's time.timescale and shift music pitch
 - Learned how to make Synthwave music in FLStudio
-- You only make less than half of what you plan in a gamejam
-- Devlog / Making of Controlnt (This is very old I could not speak infront of a mic back then): {{< youtube WPWUfntCnW8>}}
-
+- Post processing effects in Unity
+<!-- - Devlog / Making of Controlnt (This is very old I could not speak infront of a mic back then): {{< youtube WPWUfntCnW8>}} -->
+<!-- 
 ### Lore
 - This was my first gamejam
 - I had made some games with unity, but never made an original game
 - A month of progress can be done in a day in a gamejam
 - Gamejam is detremental to mental health since crunch is bad
-- Submitting early is always beneficial
+- Submitting early is always beneficial -->
