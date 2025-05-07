@@ -5,6 +5,8 @@ date : 2024-09-12
 showReadingTime: false
 showDate: true
 showAuthor: false
+showHero: false
+
 showWords: false
 summary: Fears to Fathom Woodbury Getaway
 tags: ["Gamedev"]
