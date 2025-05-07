@@ -7,7 +7,7 @@ showDate: true
 showAuthor: false
 showWords: false
 summary: Fears to Fathom Woodbury Getaway
-tags: ["Commercial Project", "Published"]
+tags: ["Commercial Project", "Gamedev"]
 ---
 
 ### Development

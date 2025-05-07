@@ -8,7 +8,7 @@ showAuthor: false
 showWords: false
 showTaxonomies: true
 summary: A Third Person Parkour System
-tags: ["Personal Project", "Work In Progress"]
+tags: ["Personal Project", "Gamedev"]
 ---
 
 ### Development

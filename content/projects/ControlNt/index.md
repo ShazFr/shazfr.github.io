@@ -8,7 +8,7 @@ showAuthor: false
 showWords: false
 showTaxonomies: true
 summary: A Top Down Shooter
-tags: ["Personal Project", "Published"]
+tags: ["Personal Project", "Gamedev"]
 ---
 
 ### Development

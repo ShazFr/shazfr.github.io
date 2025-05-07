@@ -5,4 +5,4 @@ showHero: true
 showDateUpdated: false
 groupByYear: false
 ---
-<h3>Gamedev Projects I have worked on.</h3>
+<h3>Projects I have worked on.</h3>

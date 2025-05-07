@@ -7,7 +7,7 @@ showDate: true
 showAuthor: false
 showWords: false
 summary: A 2D Maze Shooter game
-tags: ["Personal Project", "Published"]
+tags: ["Personal Project", "Gamedev"]
 ---
 
 

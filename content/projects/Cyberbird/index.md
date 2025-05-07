@@ -2,7 +2,7 @@
 title: CyberBird
 date: 2021-06-15
 summary: A Synthwave Hoverboard Simulator
-tags: ["Personal Project", "Published"]
+tags: ["Personal Project", "Gamedev"]
 ---
 
 

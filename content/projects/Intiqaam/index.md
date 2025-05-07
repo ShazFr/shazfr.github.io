@@ -8,7 +8,7 @@ showAuthor: false
 showWords: false
 showTaxonomies: true
 summary: A Third Person Stealth Game
-tags: ["Personal Project", "Published"]
+tags: ["Personal Project", "Gamedev"]
 ---
 
 ### Development
